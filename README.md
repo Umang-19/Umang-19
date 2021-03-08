@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umang Aggarwal</h1>
 <h3 align="center">A Girl who's Passionate about Programming and Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="umang-19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="umang-19" /> 
+
+[![linkedin badge](https://img.shields.io/badge/Umang_Aggarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/umang-aggarwal537) </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
 
