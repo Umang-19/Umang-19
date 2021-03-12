@@ -22,7 +22,7 @@
 <a href="https://twitter.com/umang_537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umang_537" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umangaggarwal-537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umangaggarwal-537" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/umang537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="umang537" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umang_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="umang_19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/umang_537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="umang_537" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/umang537/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="umang537/profile" height="30" width="40" /></a>
 </p>
 
