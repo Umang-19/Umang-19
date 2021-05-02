@@ -21,7 +21,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
 <p align="left">
 <a href="https://twitter.com/umang_537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umang_537" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umangaggarwal-537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umangaggarwal-537" height="30" width="40" /></a>
@@ -41,7 +41,7 @@
 
 <hr>
 
-### Languages:
+### 🖥️ Languages & Technologies:
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -51,8 +51,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
-
-### Technologies:
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
