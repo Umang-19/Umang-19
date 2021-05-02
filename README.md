@@ -1,50 +1,107 @@
-<h1 align="center">Hi 👋, I'm Umang Aggarwal</h1>
-<h3 align="center">A girl who's passionate about programming and development</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umang Aggarwal</h1>
+<br>
+<img src="sayhi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="umang-19" /> 
 
-[![linkedin badge](https://img.shields.io/badge/Umang_Aggarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/umang-aggarwal537) </p>
+<!-- [![linkedin badge](https://img.shields.io/badge/Umang_Aggarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/umang-aggarwal537) </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java**
+### <img src="aboutme.gif" width=45px >About Me:
 
-- 🔭 I’m currently working on a **Java Project**
+- 🌱 I’m currently learning **Web Development & Machine learning**
+
+- 🔭 I’m currently working on a **ML Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umang-19](https://github.com/Umang-19)
 
-- 💬 Ask me about **C++, DSA and Python**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **umangaggarwal537@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umang_537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umang_537" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umangaggarwal-537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umangaggarwal-537" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/umang537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="umang537" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umang_537" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="umang_537" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/umang537/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="umang537/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### 📢 Find me elsewhere:
+<p align="left">
+  <a href="https://www.codechef.com/users/umang537">
+    <img src="codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
   
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
+  <a href="https://www.leetcode.com/umang_537">
+    <img src="leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-19&show_icons=true&locale=en&layout=compact" alt="umang-19" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umang-19&show_icons=true&locale=en" alt="umang-19" /></p>
+### Languages:
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+
+### Technologies:
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
+
+<!-- Mostly Used Languages -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
+<br>
+
+<!-- My Github Stats -->
+<img  src="https://github-readme-stats.vercel.app/api?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
+
+<!--START_SECTION:waka-->
+<!-- **I'm a night 🦉** 
+
+```text
+🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+🌆 Daytime    15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
+🌃 Evening    20 commits     ████████████░░░░░░░░░░░░░   51.28% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+``` -->
+
+<!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-19&" alt="umang-19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
+
+<h2 align="center">My Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Umang-19/JARVIS-AI-VOICE-ASSISTANT" title="JARVIS AI VOICE ASSISTANT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=JARVIS-AI-VOICE-ASSISTANT&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
+ 
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Umang-19/Python-15-Mini-Projects" title="Python 15 Mini Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Python-15-Mini-Projects&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
+</p>
+<br><br>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/Umang-19/Flappy-Bird-Game" title="Flappy Bird Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Flappy-Bird-Game&theme=tokyonight"></a>
+  <a align="left" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
+</p>
+<br><br>
