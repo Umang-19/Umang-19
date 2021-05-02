@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umang Aggarwal</h1>
 <br>
-<img src="sayhi.gif">
+<img src="sayhi.gif" width=350px  align="center" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="umang-19" /> 
 
@@ -64,7 +64,6 @@
 
 <!-- Mostly Used Languages -->
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
-<br>
 
 <!-- My Github Stats -->
 <img  src="https://github-readme-stats.vercel.app/api?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
