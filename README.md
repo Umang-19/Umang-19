@@ -76,18 +76,18 @@
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/JARVIS-AI-VOICE-ASSISTANT" title="JARVIS AI VOICE ASSISTANT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=JARVIS-AI-VOICE-ASSISTANT&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
- 
+  <a align="right" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
 </p>
 <br><br>
+
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/Python-15-Mini-Projects" title="Python 15 Mini Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Python-15-Mini-Projects&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
 </p>
 <br><br>
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/Flappy-Bird-Game" title="Flappy Bird Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Flappy-Bird-Game&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
 </p>
 <br><br>
