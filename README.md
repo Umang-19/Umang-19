@@ -68,10 +68,6 @@
 <!-- My Github Stats -->
 <img  src="https://github-readme-stats.vercel.app/api?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-19&" alt="umang-19" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
-
 <h2 align="center">My Repositories</h2>
 
 <p width="100%" align="center">
@@ -91,3 +87,7 @@
   <a align="right" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
 </p>
 <br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-19&" alt="umang-19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
