@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umang Aggarwal</h1>
 <br>
-<img src="sayhi.gif" width=350px  align="center" >
+<img src="sayhi.gif" width= 350px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="umang-19" /> 
 
@@ -68,19 +68,6 @@
 <!-- My Github Stats -->
 <img  src="https://github-readme-stats.vercel.app/api?username=umang-19&show_icons=true&theme=tokyonight&icon_color=6392DF" alt="umang-19 github stats">
 
-<!--START_SECTION:waka-->
-<!-- **I'm a night 🦉** 
-
-```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-🌆 Daytime    15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-🌃 Evening    20 commits     ████████████░░░░░░░░░░░░░   51.28% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-``` -->
-
-<!--END_SECTION:waka-->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-19&" alt="umang-19" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang-19" alt="umang-19" /></a> </p>
@@ -89,18 +76,18 @@
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/JARVIS-AI-VOICE-ASSISTANT" title="JARVIS AI VOICE ASSISTANT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=JARVIS-AI-VOICE-ASSISTANT&theme=tokyonight"></a>
-  <a align="left" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
  
 </p>
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/Python-15-Mini-Projects" title="Python 15 Mini Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Python-15-Mini-Projects&theme=tokyonight"></a>
-  <a align="left" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
 </p>
 <br><br>
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/Flappy-Bird-Game" title="Flappy Bird Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Flappy-Bird-Game&theme=tokyonight"></a>
-  <a align="left" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
 </p>
 <br><br>
