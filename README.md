@@ -76,7 +76,7 @@
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Umang-19/Python-15-Mini-Projects" title="Python 15 Mini Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Python-15-Mini-Projects&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/Task-1_Spark_Foundation" title="Internship"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Task-1_Spark_Foundation&theme=tokyonight"></a>
+  <a align="right" href="https://github.com/Umang-19/devjam" title="Hackathon Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=devjam&theme=tokyonight"></a>
 </p>
 <br><br>
 
